@@ -26,4 +26,3 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 
 * Sartaj Singh [leosartaj](http://github.com/leosartaj)
 * Rishabh Daal [rd13123013](http://github.com/rd13123013)
-* Rehas Sachdeva [rehassachdeva](https://github.com/rehassachdeva)
